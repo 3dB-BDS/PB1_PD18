@@ -41,3 +41,13 @@ print(f"By summing together {a} and {b} result is {result}")
 - Python: 3.8+
 - Git: 2.53.0.windows.1
 - GitHub
+
+---
+
+## Definition of Done
+
+Task is done if:
+- function works
+- tests passes
+- CI is green
+- Issue is marked Done
